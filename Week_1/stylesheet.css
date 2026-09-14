@@ -1,0 +1,14 @@
+p {
+    color: rgb(0, 183, 255);
+}
+
+img{
+    display: block;
+    width: 300;
+    margin: 100px auto;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+}
